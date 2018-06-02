@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/client/client.iml" filepath="$PROJECT_DIR$/client/client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/registry/registry.iml" filepath="$PROJECT_DIR$/registry/registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/remoting/remoting.iml" filepath="$PROJECT_DIR$/remoting/remoting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/remotingExt/remotingExt.iml" filepath="$PROJECT_DIR$/remotingExt/remotingExt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tinyRpc.iml" filepath="$PROJECT_DIR$/tinyRpc.iml" />
+    </modules>
+  </component>
+</project>
